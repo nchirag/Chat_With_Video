@@ -101,6 +101,6 @@ README.md             # Project overview and setup
 
 For feedback or collaboration:
 
-- **GitHub**: [your-profile-link]
+- **GitHub**: [[your-profile-link](https://github.com/nchirag)]
 - **Email**: [chirag.n3012@gmail.com](mailto:chirag.n3012@gmail.com)
 
