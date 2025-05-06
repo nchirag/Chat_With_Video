@@ -1,0 +1,8 @@
+SpeechRecognition
+faiss-cpu
+langchain
+moviepy
+numpy
+pydub
+sentence-transformers
+transformers
